@@ -21,7 +21,7 @@ I conducted exploratory data analysis, regression analysis, cluster analysis and
 
 More information about the (scope of) the project can be found in the subfolder Project Information.
 
-You can access the data for this project [here](https://drive.google.com/drive/folders/1L02sWCfjXqMgbnDo37Youar3TVnud4Tf?usp=sharing).
+You can access the data for this project [here](https://drive.google.com/drive/folders/1L02sWCfjXqMgbnDo37Youar3TVnud4Tf?usp=sharing) as well.
 
 There is also a Tableau Storyboard for this project. You can find it [here](https://public.tableau.com/app/profile/verena.diersch/viz/PoetryAnalysis/ThePoetryProject?publish=yes).
 
