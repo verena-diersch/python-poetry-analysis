@@ -17,7 +17,7 @@ I wrote my poems from the beginning of August 2021 until November 2021. Not only
 
 In my analysis I was looking for correlations between weather, my eating, listening, reading and meditation habits and the wordcount of my poems that day.
 
-I conducted exploratory data analysis, regression analysis, cluster analysis and time series analysis in Python with Jupyter Notebook.
+I conducted exploratory data analysis, text analysis, regression analysis, cluster analysis and time series analysis in Python with Jupyter Notebook.
 
 More information about the (scope of) the project can be found in the subfolder Project Information.
 
